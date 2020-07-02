@@ -1,0 +1,126 @@
+
+header{
+    width: 100%;
+    padding:15px;
+    margin:0 auto;
+    text-align:center;
+}
+
+h1{
+    font-size: 36px;
+    font-weight:bold;
+}
+
+header{
+    background-color: grey;
+    
+}
+
+.nav-item{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    
+}
+
+
+.nav{
+    font-size: 30px;
+    text-align: center;
+    padding: 10px 0;
+    margin: 0 auto;
+}
+
+
+
+.top h2{
+    font-size:50px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    color :gray;
+}
+
+
+.course{
+    margin:30px;
+    font-size:30px;
+    
+}
+
+
+
+/*====================================
+nav
+====================================*/
+
+.nav a{
+    font-size:14px;
+}
+
+.col-2,.col-3,.col-4{
+    padding-right:0;
+}
+
+
+/*====================================
+submit
+====================================*/
+
+.submit a{
+    color: #dc3545;;
+}
+
+/*====================================
+スマホ用
+====================================*/
+
+@media only screen and (max-width: 767px){
+    h1{
+        font-size: 25px;
+        
+    }
+
+    .top h2{
+        font-size:25px;
+        font-weight:bold;
+    }
+
+/*====================================
+nav
+====================================*/
+
+
+
+/*====================================
+top
+====================================*/
+    .course a{
+        font-size:25px;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
